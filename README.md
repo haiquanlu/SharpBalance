@@ -110,6 +110,9 @@ We provide a quick overview of the arguments:
 ### Simulation of theorical results
 We have included the simulation code for verifications in the notebook [theoretical_verification.ipynb](theoretical_verification.ipynb). Feel free to have a try !
 
+## Contribution 
+Haiquan conducted experiments and contributed to the implementation of the ensembling algorithm, Xiaotian contributed to the theoretical proofs and simulations, Yefan implemented the loss landscape metrics and proposed ideas, Qunli contributed to the experiments in the initial phases.
+
 ## Citation
 We would appreciate it if you could cite the following paper if you found the repository useful for your work:
 
