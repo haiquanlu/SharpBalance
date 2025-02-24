@@ -1,6 +1,6 @@
 # Sharpness-diversity tradeoff: improving flat ensembles with SharpBalance
 
-[Haiquan Lu](https://haiquanlu.github.io/), Xiaotian Liu, Qunli Li, [Yefan Zhou](https://yefanzhou.github.io/), [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/), [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/), [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home), [Huanrui Yang](https://sites.google.com/view/huanrui-yang), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+[Haiquan Lu](https://haiquanlu.github.io/), [Xiaotian Liu](https://scholar.google.com/citations?user=32r5znUAAAAJ&hl=en), [Qunli Li](https://www.linkedin.com/in/qunli-li-594385236/), [Yefan Zhou](https://yefanzhou.github.io/), [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/), [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/), [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home), [Huanrui Yang](https://sites.google.com/view/huanrui-yang), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
 **Nankai University, Dartmouth College, University of California San Diego, University of California at Berkeley.**
 
